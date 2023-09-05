@@ -380,6 +380,7 @@ font-weight: 400;
 
 .word{margin-left: 420px; margin-bottom: 650px; font-size: 100px;}
 
+.right-side-nav{position: relative;left: 100px;}
 @media (max-width : 1000px) {
   .fire {
      display: flex;
@@ -387,7 +388,7 @@ font-weight: 400;
     position: relative;top :-70px
    
 }
-
+.right-side-nav{position: relative;left: -10px;}
 
 
 .wight{
