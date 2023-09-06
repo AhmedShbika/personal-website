@@ -29,7 +29,7 @@ const data = {
       simeTtop: "design",
       pref:
         "interactive design that capture the user using figma prototype to see the whole user experinse berfor the actuall code",
-      bottom: "figma prototybe",
+      bottom: "figma prototype",
       img: star,
     },
     {
