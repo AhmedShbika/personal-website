@@ -39,7 +39,7 @@ function Header(props){
 <div className="Ahmed-introduce">
 <h1 className="A1">Ahmed shbika</h1>
 <h2 className="A2"> front-end devoloper</h2>
-<p className="text"> Am Business student who has conquered JavaScript, HTML, CSS, and React. Their journey led to an impressive portfolio website, showcasing not just skills but a passion for seamless user experiences.</p>
+<p className="text"> Am a Business student who has conquered JavaScript, HTML, CSS, and React. Their journey led to an impressive portfolio website, showcasing not just skills but a passion for seamless user experiences.</p>
 
 </div>
 <hr className="under-text-line"/>
