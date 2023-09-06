@@ -21,14 +21,14 @@ const data = {
       bottom: "figma tool",
      link:"https://github.com/AhmedShbika/Quez/tree/main",
       pref:
-        "creating ui using figma tool in addition to other ui tools like phtoshop and illstrator and so on",
+        "creating ui using figma tool in addition to other ui tools like photoshop and  illustrator and so on",
       img: sparkels,
     },
     {
       top: "inteactive ",
       simeTtop: "design",
       pref:
-        "interactive design that capture the user using figma prototype to see the whole user experinse berfor the actuall code",
+        "interactive design that capture the user using figma prototype to see the whole user experience berfor the actuall code",
       bottom: "figma prototype",
       img: star,
     },

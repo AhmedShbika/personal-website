@@ -17,7 +17,7 @@ function Header(props){
   <div className="right-side-nav">
     
  
-  <a onClick={()=>props.scroll()}>project</a>  
+  <a onClick={()=>props.scroll()}>projects</a>  
     <a onClick={()=>props.scroll2()}> services</a>
         
     </div>
