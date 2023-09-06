@@ -37,7 +37,7 @@ const data = {
       simeTtop: "website",
       bottom: "react-frame",
       pref:
-        "apply the figam design using react framework and firebase for fast and editable websit in the future",
+        "apply the figma design using react framework and firebase for fast and editable websit in the future",
       img: fire,
     },
   ],
