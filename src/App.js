@@ -28,7 +28,7 @@ const data = {
       top: "inteactive ",
       simeTtop: "design",
       pref:
-        "interactive design that capture the user using frigma prototype to see the whole user experinse berfor the actuall code",
+        "interactive design that capture the user using figma prototype to see the whole user experinse berfor the actuall code",
       bottom: "figma prototybe",
       img: star,
     },
@@ -37,7 +37,7 @@ const data = {
       simeTtop: "website",
       bottom: "react-frame",
       pref:
-        "apply the figam design using react frameworke and firebase for fast and editable websit in the future",
+        "apply the figam design using react framework and firebase for fast and editable websit in the future",
       img: fire,
     },
   ],
