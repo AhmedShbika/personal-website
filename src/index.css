@@ -18,24 +18,24 @@ a{
 
 .wight{margin-left: 300px;}
 .line{margin-left: 20px;}
-.right-side-nav>a{color:#FDEFBF; margin: 30px;top: 30px;
+.button{color:#FDEFBF; margin: 30px;top: 30px;
 background-color: #2e2e2e;
-padding: 10px;
+padding: 8px;
 border-radius: 10px;
-position: relative;right: 70px;
+
 font-size: 30px;
 box-shadow: 5px 5px 4px   #585642;
 ;
 }
-
-.right-side-nav>a:hover{
+.right-side-nav{}
+.button:hover{
 transition: 0.3s;
     padding: 14px;
 box-shadow: 7px 10px 7px  #585642;
 
 }
 
-.right-side-nav>a{
+.button{
     transition: 0.3s;   
 }
 
@@ -381,8 +381,11 @@ font-weight: 400;
 .word{margin-left: 420px; margin-bottom: 650px; font-size: 100px;}
 
 .right-side-nav{position: relative;left: 100px;}
+.Ahmed-pic{    position: relative;left: 930px;}
 @media (max-width : 1000px) {
-  .fire {
+ 
+ .right-side-nav{bottom: 29px;}
+    .fire {
      display: flex;
      flex-direction: column;
     position: relative;top :-70px
@@ -438,7 +441,7 @@ position: relative;right: 45px;
     .main-line{width: 170px;}
 
     .right-side-nav>{display: flex}
-  .right-side-nav>a{
+  .button{
     border-radius: 2000px;padding-top: 13px;padding-bottom: 13px;
 font-size: 20px;  
 margin: 10px;
@@ -517,14 +520,85 @@ scale: 0.9;
 .service-item{width: 600px; margin-right: 100px; }
 .service-item>p{
     margin-left: 10px;   
+
 }
 .service-item>h3{margin-left: 10px;}
 .worke-class{height: 300px;}
+
 }
 
 .all{overflow-x: hidden;
 display: flex;justify-content: center;align-items: center;flex-direction: column;}
-
-.right-side-nav>a{
+.button{
     margin-left: 0px;
 }
+@media (max-width : 460px){
+    .service-parent-dev{margin-bottom: 100px;}
+}
+@media (max-width : 360px){
+    .service-item{scale: 0.9;}
+  .Ahmed-introduce{scale: 0.94;right: 110px;}
+  }
+@media (max-width : 290px){
+    .all-header-part{
+        scale: 0.8;
+    z-index: 1;
+margin-right: 100px;   
+position: relative;bottom: 70px;
+}
+.Ahmed-introduce{scale: 0.9;position: relative;right: 130px;}
+.fire{scale: 0.9;top: -300px;}
+.w{scale: 0.45;margin-right: 105px;top: -200px;}
+.worke-class{scale: 0.76;top: 10px;position: relative;top: -250px;}
+.line{scale: 0.25;margin-right: 13px;top:-450px;}
+.service-item{scale: 0.7;margin-bottom:-45px;}
+.service-parent-dev{position: relative;top: -250px;margin-bottom: -300px;}
+.services{margin-bottom: -900px;}
+.right-side-nav{margin-right: 120px;}
+}
+
+
+.button{margin-right: 20px;cursor: pointer;}
+.button:hover{background-color: rgb(255, 255, 255); color: #000000; -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; }
+
+.right-side-nav{position: relative;left: -18px;}
+.Ahmed-introduce:hover{cursor:default; -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; }
+.fire:hover{cursor: default;}
+.worke-class{ -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; }
+    .service-item{ -webkit-user-select: none; /* Safari */
+        -ms-user-select: none; /* IE 10 and IE 11 */
+        user-select: none; }
+        .Ahmed-pic{user-drag: none;  
+            user-select: none;
+            -moz-user-select: none;
+            -webkit-user-drag: none;
+            -webkit-user-select: none;
+            -ms-user-select: none
+
+        }
+       
+            .socila-media-links{user-drag: none;  
+                user-select: none;
+                -moz-user-select: none;
+                -webkit-user-drag: none;
+                -webkit-user-select: none;
+                -ms-user-select: none}
+                .wight{user-drag: none;  
+                    user-select: none;
+                    -moz-user-select: none;
+                    -webkit-user-drag: none;
+                    -webkit-user-select: none;
+                    -ms-user-select: none}
+                    .line{user-drag: none;  
+                        user-select: none;
+                        -moz-user-select: none;
+                        -webkit-user-drag: none;
+                        -webkit-user-select: none;
+                        -ms-user-select: none}
+                    .logo{width: 120px;}

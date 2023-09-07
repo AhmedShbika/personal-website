@@ -131,14 +131,12 @@ function App() {
         <div className="worke-class"  ref={workRef} >
           {WorkComponents}
         </div>
-    <div ref={serviceRef}>
+    <div ref={serviceRef} className="service-parent-dev">
       
    
       <Service/>
       </div>
-      <div className="viloets" >
-        Violets are blue,Roses are red and anta mo shendiro
-      </div>
+     
       </Router>
     </div>
   );

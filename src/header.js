@@ -15,10 +15,10 @@ function Header(props){
 <nav className="navigation">
 <img src={logo} alt={logo} className="logo"></img>
   <div className="right-side-nav">
-    
+  
  
-  <a onClick={()=>props.scroll()}>projects</a>  
-    <a onClick={()=>props.scroll2()}> services</a>
+ <button type="" className="button" onClick={()=>props.scroll() }>  projects </button>
+    <button type="" className="button" onClick={()=>props.scroll()}> services </button>
         
     </div>
 
@@ -44,9 +44,9 @@ function Header(props){
 </div>
 <hr className="under-text-line"/>
 <div className="socila-media-links">
-    <a href="https://www.facebook.com/profile.php?id=100030711543694&mibextid=ZbWKwL"><img src={facebooke} alt={facebooke} className="face"></img></a>
-    <a href="https://instagram.com/ahmedshbika?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D"><img src={Instagram} alt={Instagram} className="insta"></img></a>
-    <a href="https://wa.me/qr/HIOLA547TPBLF1"><img src={tiktok} alt={tiktok} className="tik"></img></a>
+    <a href="https://www.facebook.com/profile.php?id=100030711543694&mibextid=ZbWKwL"  target="_blank"><img src={facebooke} alt={facebooke} className="face"></img></a>
+    <a href="https://instagram.com/ahmedshbika?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D"  target="_blank"><img src={Instagram} alt={Instagram} className="insta"></img></a>
+    <a href="https://wa.me/qr/HIOLA547TPBLF1"  target="_blank"><   img src={tiktok} alt={tiktok} className="tik" ></img></a>
 </div>
 </div>
 </div>

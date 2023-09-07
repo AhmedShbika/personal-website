@@ -8,7 +8,7 @@ jkj">
 
 <div>
  <p className="worke-descripe">{props.descripe}</p> 
- <a href={props.link}><img src={props.img} alt={props.img} onClick={()=>props.scroll()} className="pic"></img ></a>
+ <a href={props.link}  target="_blank"><img src={props.img} alt={props.img} onClick={()=>props.scroll()} className="pic"></img ></a>
 </div>
 </div>)
 
