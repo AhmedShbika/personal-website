@@ -419,8 +419,9 @@ width: 240;
 
 }
 .Ahmed-introduce{
-    position: relative;top: 30px;
-
+    position: relative;top: 20px;
+margin-left: 160px;
+scale: 0.95;
 }
 
 .text{
@@ -434,7 +435,7 @@ position: relative;right: 45px;
 .under-nav-line{opacity: 0; width: 0;}
 .under-text-line{opacity: 0;width: 0;}
 .socila-media-links{
-    position: relative;top:43px;left: 50px;
+    position: relative;top:36px;left: 60px;
 }
 .con{width: 250px;   
     height: 200px;}
@@ -509,7 +510,7 @@ scale: 0.9;
 }
 
 .wight{width: 0;height: 0;}
-.w{scale: 0.6;margin-left: 465px;position: relative;bottom: 50px;}
+.w{scale: 0.6;margin-left: 470px;position: relative;bottom: 50px;}
 .line{scale: 0.3;margin-left: 700px;}
 
 .all-header-part{margin-left: 590px;}
@@ -564,10 +565,10 @@ position: relative;bottom: 70px;
     user-select: none; }
 
 .right-side-nav{position: relative;left: -18px;}
-.Ahmed-introduce:hover{cursor:default; -webkit-user-select: none; /* Safari */
+.Ahmed-introduce{cursor:default; -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; }
-.fire:hover{cursor: default;}
+.fire{cursor: default;}
 .worke-class{ -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; }
@@ -602,3 +603,17 @@ position: relative;bottom: 70px;
                         -webkit-user-select: none;
                         -ms-user-select: none}
                     .logo{width: 120px;}
+                    .button{-webkit-touch-callout: none; /* iOS Safari */
+                        -webkit-user-select: none; /* Safari */
+                         -khtml-user-select: none; /* Konqueror HTML */
+                           -moz-user-select: none;
+                            -ms-user-select: none; /* Internet Explorer/Edge */
+                                user-select: none; /* Non-prefixed version, currently
+                                                      supported by Chrome, Edge, Opera and Firefox */
+                    }
+            .pic{user-drag: none;  
+                user-select: none;
+                -moz-user-select: none;
+                -webkit-user-drag: none;
+                -webkit-user-select: none;
+                -ms-user-select: none}
