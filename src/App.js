@@ -13,6 +13,7 @@ import quezz from "./images/Component 9 (1).png";
 import meme from "./images/Component 10 (1).png";
 import musels from "./images/Component 8 (1).png"
 import Service from "./service";
+import Cosmos from "./images/photo_2023-10-28_01-02-17.jpg"
 const data = {
   data: [
     {
@@ -46,15 +47,11 @@ const data = {
 const data2 = {
   data2: [
     {
-      describe: " quezz game",
-      img: quezz,
-      link:"https://github.com/AhmedShbika/Quez/tree/main",
+      describe: " ODYSSEY landing page",
+      img: Cosmos,
+      link:"https://ahmedshbika.github.io/Cosmos/",
     },
-    {
-      describe: " meme genenator",
-      img: meme,
-    link:"https://github.com/AhmedShbika/MEME-mk"
-    },
+   
   ],
 };
 
