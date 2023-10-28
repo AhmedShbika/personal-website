@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.36c33820.css",
-    "main.js": "/personal-website/static/js/main.c37ce2da.js",
+    "main.css": "/personal-website/static/css/main.1409741b.css",
+    "main.js": "/personal-website/static/js/main.c2427a0c.js",
     "static/media/Component 10 (1).png": "/personal-website/static/media/Component 10 (1).14534987ac5af6019bb1.png",
+    "static/media/photo_2023-10-28_01-02-17.jpg": "/personal-website/static/media/photo_2023-10-28_01-02-17.29fb8660ded95fe40712.jpg",
     "static/media/Component 9 (1).png": "/personal-website/static/media/Component 9 (1).c4d5b553c44ff75321f4.png",
     "static/media/Component 4 (1).png": "/personal-website/static/media/Component 4 (1).09ad2c1a61bbe117ae5b.png",
     "static/media/Property 1=Default.png": "/personal-website/static/media/Property 1=Default.afc0e94cebb762bd2de6.png",
     "static/media/Component 8 (1).png": "/personal-website/static/media/Component 8 (1).fedb8d1690ab8dbdc6c1.png",
     "static/media/Union.png": "/personal-website/static/media/Union.ae7e33486a0d93b75fbb.png",
     "index.html": "/personal-website/index.html",
-    "main.36c33820.css.map": "/personal-website/static/css/main.36c33820.css.map",
-    "main.c37ce2da.js.map": "/personal-website/static/js/main.c37ce2da.js.map"
+    "main.1409741b.css.map": "/personal-website/static/css/main.1409741b.css.map",
+    "main.c2427a0c.js.map": "/personal-website/static/js/main.c2427a0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.36c33820.css",
-    "static/js/main.c37ce2da.js"
+    "static/css/main.1409741b.css",
+    "static/js/main.c2427a0c.js"
   ]
 }
